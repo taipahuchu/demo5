@@ -27,7 +27,7 @@ def should_check(filename: Path) -> bool:
     on = data.get("on", data.get(True, {}))
     return "pull_request" in on
 
-
+faf
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Ensure all relevant GitHub actions jobs will be cancelled based on a concurrency key"
