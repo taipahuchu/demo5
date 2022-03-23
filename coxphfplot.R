@@ -1,4 +1,4 @@
-#' Plot the Penalized Profile Likelhood Function
+#' Plot the Penalized Profile Likelhood F
 #' Plots the penalized profile likelihood for a specified parameter.
 #' 
 #' This function plots the profile (penalized) log likelihood of the specified parameter. A symmetric shape of 
